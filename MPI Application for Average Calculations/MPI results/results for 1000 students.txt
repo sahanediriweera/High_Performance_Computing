@@ -1,0 +1,1 @@
+Time taken for 1000 students is 0.0005736351013183594 and the average is [50.842 51.097 51.02  48.74 ]

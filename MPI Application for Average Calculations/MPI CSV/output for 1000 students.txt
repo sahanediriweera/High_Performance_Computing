@@ -1,0 +1,1 @@
+ time taken for 1000 students is  0.12367630004882812 and answer is [50.603 49.944 48.516 49.218]

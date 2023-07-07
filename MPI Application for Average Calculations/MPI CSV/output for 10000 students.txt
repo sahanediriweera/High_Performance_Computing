@@ -1,0 +1,1 @@
+ time taken for 10000 students is  0.13516831398010254 and answer is [49.6804 50.104  49.8745 50.2187]

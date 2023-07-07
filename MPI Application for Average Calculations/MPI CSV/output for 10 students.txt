@@ -1,0 +1,1 @@
+ time taken for 10 students is  0.0254518985748291 and answer is [50.125 46.5   60.5   49.125]

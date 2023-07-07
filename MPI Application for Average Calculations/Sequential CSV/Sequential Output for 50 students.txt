@@ -1,0 +1,1 @@
+The time taken is 0.012927770614624023 and the answer is [48.08 46.66 50.76 50.62]

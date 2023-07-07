@@ -1,0 +1,1 @@
+ time taken for 100 students is  0.022266864776611328 and answer is [50.87 51.52 51.94 50.44]

@@ -1,0 +1,1 @@
+ time taken for 50 students is  0.03606724739074707 and answer is [47.54166667 45.625      51.75       50.52083333]

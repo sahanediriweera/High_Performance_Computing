@@ -1,0 +1,1 @@
+Time taken for 12 students is 0.0032966136932373047 and the average is [41.         44.16666667 59.83333333 61.58333333]

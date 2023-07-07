@@ -1,0 +1,1 @@
+Time taken for 10000 students is 0.001850128173828125 and the average is [50.5705 49.9001 50.0301 49.5426]

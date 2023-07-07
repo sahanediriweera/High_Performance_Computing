@@ -1,0 +1,1 @@
+Time taken for 100000 students is 0.0018374919891357422 and the average is [50.16013 49.9843  49.93899 49.87223]

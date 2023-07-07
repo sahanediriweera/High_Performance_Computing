@@ -1,0 +1,1 @@
+ time taken for 100000 students is  0.23197221755981445 and answer is [49.95371 50.11139 49.84839 50.19803]
