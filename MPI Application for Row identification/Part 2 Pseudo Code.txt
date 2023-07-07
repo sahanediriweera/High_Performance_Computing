@@ -1,0 +1,11 @@
+Write file to generate CSV files
+
+assign rows for each process 
+
+make a hash table to assign the string values of the CSV file
+
+search using the hash table and identify the values
+
+write the output to different files depending on rank
+
+write a program to apppend all the files together
